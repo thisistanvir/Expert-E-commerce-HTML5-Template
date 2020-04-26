@@ -1,5 +1,5 @@
-# [Expert-E-Commerce-HTML5-Template](https://thisistanvir.github.io/Goetze-Furniture-Shop-E-Commerce-HTML5-Template/)
-https://thisistanvir.github.io/Goetze-Furniture-Shop-E-Commerce-HTML5-Template/
+# [Expert-E-Commerce-HTML5-Template](https://thisistanvir.github.io/Expert-E-commerce-HTML5-Template/)
+https://thisistanvir.github.io/Expert-E-commerce-HTML5-Template/
 
 # 4 HomePage
 # Shop Page
@@ -33,4 +33,4 @@ https://thisistanvir.github.io/Goetze-Furniture-Shop-E-Commerce-HTML5-Template/
    * Nivo-slider
    
    
-![Goetze - Furniture Shop E-Commerce HTML Template - thisistanvir github io](https://user-images.githubusercontent.com/56197895/79977377-ff981b80-84bf-11ea-90fb-11c95e0fe11e.jpg)
+![Expert](https://user-images.githubusercontent.com/56197895/80303620-2bbedf80-87d3-11ea-80dd-1f1c55e4ec20.jpg)
