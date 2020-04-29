@@ -2144,26 +2144,6 @@ input:focus[type="url"], input:focus[type="text"], input:focus[type="email"], in
     visibility: visible;
     opacity: 1;
 }
-
-.tooltip-inner {
-    background-color: #f3652a;
-    color: #ffffff;
-    padding: 5px 6px;
-}
-.tooltip.bs-tooltip-right .arrow:before {
-    border-right-color: #f3652a;
-}
-.tooltip.bs-tooltip-left .arrow:before {
-    border-left-color: #f3652a;
-}
-.tooltip.bs-tooltip-top .arrow:before {
-    border-top-color: #f3652a;
-}
-.tooltip.bs-tooltip-bottom .arrow:before {
-    border-bottom-color: #f3652a;
-}
-
-
 .single-product:hover {
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
 }
@@ -2727,3 +2707,22 @@ input:focus[type="url"], input:focus[type="text"], input:focus[type="email"], in
     border-top: 1px solid #464646;
 }
 /* End Footer Area */
+
+/* ToolTip */
+.tooltip-inner {
+    background-color: #f3652a;
+    color: #ffffff;
+    padding: 5px 6px;
+}
+.tooltip.bs-tooltip-right .arrow:before {
+    border-right-color: #f3652a;
+}
+.tooltip.bs-tooltip-left .arrow:before {
+    border-left-color: #f3652a;
+}
+.tooltip.bs-tooltip-top .arrow:before {
+    border-top-color: #f3652a;
+}
+.tooltip.bs-tooltip-bottom .arrow:before {
+    border-bottom-color: #f3652a;
+}
